@@ -1,6 +1,7 @@
 //Browser name|Browser path|bypass CORS arguments
+//%userprofile% allowed
 Cốc Cốc|browser|--allow-file-access-from-files
 Chrome|chrome|--allow-file-access-from-files
 Microsoft Edge|msedge|--allow-file-access-from-files
-Opera|opera|--allow-file-access-from-files
+Opera|%userprofile%\AppData\Local\Programs\Opera\launcher|--allow-file-access-from-files
 Brave|brave|--allow-file-access-from-files
