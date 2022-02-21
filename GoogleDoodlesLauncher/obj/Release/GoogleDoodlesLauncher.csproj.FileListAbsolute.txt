@@ -1,0 +1,11 @@
+D:\repos\GoogleDoodlesLauncher\bin\Release\GDoodlesLauncher.exe.config
+D:\repos\GoogleDoodlesLauncher\bin\Release\GDoodlesLauncher.exe
+D:\repos\GoogleDoodlesLauncher\bin\Release\GDoodlesLauncher.pdb
+D:\repos\GoogleDoodlesLauncher\obj\Release\GoogleDoodlesLauncher.csproj.AssemblyReference.cache
+D:\repos\GoogleDoodlesLauncher\obj\Release\GoogleDoodlesLauncher.csproj.SuggestedBindingRedirects.cache
+D:\repos\GoogleDoodlesLauncher\obj\Release\RestartBrowser.Form1.resources
+D:\repos\GoogleDoodlesLauncher\obj\Release\GDoodlesLauncher.Properties.Resources.resources
+D:\repos\GoogleDoodlesLauncher\obj\Release\GoogleDoodlesLauncher.csproj.GenerateResource.cache
+D:\repos\GoogleDoodlesLauncher\obj\Release\GoogleDoodlesLauncher.csproj.CoreCompileInputs.cache
+D:\repos\GoogleDoodlesLauncher\obj\Release\GDoodlesLauncher.exe
+D:\repos\GoogleDoodlesLauncher\obj\Release\GDoodlesLauncher.pdb
