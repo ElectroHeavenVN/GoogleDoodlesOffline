@@ -7,3 +7,5 @@
 - PAC-MAN 30th Anniversary
 ## How to run game
 - Edit BrowserList.txt (if you want) then run GDoodlesLauncher.exe and enjoy!
+## Downloads
+- [v1.0.0](https://github.com/ElectroHeavenVN/GoogleDoodlesOffline/releases/download/v1.0.0/GoogleDoodlesOffline.zip)
